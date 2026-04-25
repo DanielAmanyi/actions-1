@@ -1,3 +1,5 @@
+1.
+2.
 /Users/mac/.zshrc:65: bad pattern: /Users/mac/.oh-my-zsh/oh-my-zsh.sh[[
 mac@Amanyis ~ % pwd
 /Users/mac
