@@ -1,3 +1,3 @@
 x= "Hello world"
 
-print(x)
+print((x)*3)
