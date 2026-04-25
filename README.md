@@ -1,3 +1,4 @@
+Map fn
 x= "Hello world"
 
 print((x)*3)
