@@ -1,3 +1,12 @@
+
+Map fn
+x= "Hello world"
+
+print((x)*3)
+
+y=input(print("Enter your name"))
+print ("Welcome," y )
+    
 1.
 2.
 /Users/mac/.zshrc:65: bad pattern: /Users/mac/.oh-my-zsh/oh-my-zsh.sh[[
@@ -19,3 +28,4 @@ mac@Amanyis gitrep % ls
 actions-1
 mac@Amanyis gitrep % cd actions-1/
 mac@Amanyis actions-1 % ls
+main
